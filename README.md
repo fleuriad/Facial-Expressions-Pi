@@ -1,12 +1,14 @@
 # Facial-Expressions-Pi
 
-With the project you can detect the expression of any faces with the camera pi for RaspBerry Pi
-We use the library created by Emil Valkov  available here https://github.com/robidouille/robidouille/tree/master/raspicam_cv for the connexion in C++ with pi cam
+With the project you can detect the expression of any faces with the camera pi for RaspBerry Pi :
 
-You have to download and lauch the file "compile.sh" like a script bash with the commands : chmod +x ./compile.sh
+We use the library created by Emil Valkov available here : https://github.com/robidouille/robidouille/tree/master/raspicam_cv for the connexion in C++ with pi cam
+
+You have to download the repot and lauch the file "compile.sh" like a script bash with the commands : chmod +x ./compile.sh
+
 You have three classes :
 - webcam 
 - detection 
 - face
- Everything is explained direclty in the source codes
-Enjoy and don't hesitate to copy share sources code of this project
+Everything is documented direclty in the source codes
+Enjoy and don't hesitate to copy and share sources code of this project
